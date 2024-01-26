@@ -24,4 +24,5 @@ Please create an issue for your questions, initiating a discussion, or proposing
 
 ## License
 
+MIT License: Found at https://gitlab.com/virajd98/quantum-computing-plaksha-university/-/blob/main/LICENSE.txt
 
