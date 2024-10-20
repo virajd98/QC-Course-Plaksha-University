@@ -14,7 +14,7 @@ This gitlab repository will contain materials relevant to the coursework and is 
 
 
 ## Support
-If there are any issues you face while using this repository or if you find any mistakes, drop an email at viraj.dsouza@plaksha.edu.in
+If there are any issues you face while using this repository or if you find any mistakes, drop an email at virajdanieldsouza@gmail.com
 
 
 ## Contributing
